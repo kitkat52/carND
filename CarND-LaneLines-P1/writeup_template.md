@@ -20,6 +20,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image5]: ./image_process/modified.jpg "Modified"
+
 ---
 
 ### 1. Reflection
