@@ -8,12 +8,16 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./image_process/grayscale.jpg "Grayscale"
+
 [//]: # (Image References)
 [image2]: ./image_process/binary.jpg "Binary"
+
 [//]: # (Image References)
 [image3]: ./image_process/gradient.jpg "Gradient"
+
 [//]: # (Image References)
 [image4]: ./test_images_output/solidYellowLeft.jpg "Result"
+
 [//]: # (Image References)
 [image5]: ./image_process/modified.jpg "Modified"
 ---
